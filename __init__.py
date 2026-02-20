@@ -1,0 +1,1 @@
+from gdo.html_validator.module_html_validator import module_html_validator
